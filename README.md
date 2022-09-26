@@ -6,6 +6,7 @@
 
 
 GLOSSARY
+```
 H - Home win
 NH - Not Home win
 FTHG - Full-Time Home Team Goals
@@ -36,3 +37,4 @@ HTGD - average Goal Difference for Home Team
 ATGD - average Goal Difference for Away Team
 DiffPts - average Difference in Points
 DiffFormPts - average Difference in Points between the two teams from the 5 last matches
+```
